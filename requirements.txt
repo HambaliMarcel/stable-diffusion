@@ -1,0 +1,14 @@
+argparse
+opencv-python
+torch
+numpy
+omegaconf
+Pillow
+tqdm
+imwatermark
+einops
+torchvision
+pytorch-lightning
+diffusers
+transformers
+dlib
